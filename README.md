@@ -17,6 +17,6 @@ if theres an problem make an thing in the issues
 
 # step 1
 stuff you will need to download
-sudo apt install requests
+--sudo apt install requests--
 
 
