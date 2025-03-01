@@ -15,9 +15,5 @@ if theres an problem make an thing in the issues
 
 ![image](https://github.com/user-attachments/assets/d57afdb2-fe76-48ae-bc16-d5cda43b51bb)
 
-# step 1
-stuff you will need to download
---pip3 install requests
---
-
+tested on ubuntu
 
