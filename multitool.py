@@ -26,7 +26,7 @@ def print_banner():
             ░     ░        ░  ░      ░             ░ ░     ░ ░     ░  ░
     
     >> Multi-Tool for Network Testing <<
-    >>   Coded with <3 by goffypig    <<
+    >>   Coded with <3 by D0M1N8R    <<
     {COLOR_RESET}"""
     
     for line in banner.splitlines():
